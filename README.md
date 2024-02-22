@@ -1,6 +1,6 @@
-# Horário acadêmico IFRN Parnamirim 2024.1
+# Horário acadêmico IFRN Parnamirim
 
-Horário publicado em: <https://mange.ifrn.edu.br/horario/parnamirim/2024.1>
+Horário publicado em: <https://mange.ifrn.edu.br/horario/parnamirim/>
 
 ## Criação de ambiente virtual
 
